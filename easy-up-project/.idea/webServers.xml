@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="48041f74-f2c5-4906-85bd-f2a8e4926314" name="demo_easy" url="http://164.90.183.9">
+        <fileTransfer rootFolder="/home/easyup.rubeditedev.ru" accessType="SFTP" host="164.90.183.9" port="22" sshConfigId="e8358882-8574-435e-a400-652c8dcfda28" sshConfig="root@164.90.183.9:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

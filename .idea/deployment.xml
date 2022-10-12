@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="demo" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="demo">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/easyup-back/" local="$PROJECT_DIR$/easy-up-project/easyup-online/easyup-back/" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

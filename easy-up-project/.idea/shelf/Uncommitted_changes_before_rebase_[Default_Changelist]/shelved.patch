@@ -1,0 +1,12 @@
+Index: easyup-online/easyup-front
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- easyup-online/easyup-front	(revision b474a8e847b0825d45ac21783fc3826afdac17e7)
++++ easyup-online/easyup-front	(date 1602772653201)
+@@ -1,1 +1,1 @@
+-08ba61fba60591b92cd75c9491edf8ff954412ef
+\ No newline at end of file
++3fad9d6dbdc72d3074d5d188c01f6c68bb3ef2e2
+\ No newline at end of file
